@@ -1,0 +1,54 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+}
+
+/* sicuramente è estremamente sbagliato quello che ho fatto qua sotto, scusate!!!  */
+
+#quadrato {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 60%;
+    margin: auto; 
+    border-radius: 10px;
+    padding: 60px;
+}
+
+header {
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+}
+
+h1 {
+    color:  rgba(105, 223, 57, 01);
+}
+
+#pulsanti {
+    background-color: rgba(105, 223, 57, 01);
+    padding: 10px;
+}
+
+.monopattino {
+    font-size: 25px;
+}
+
+#arancione {
+    width: 300px;
+    height: 20px;
+    background: orange;
+}
+
+#verde {
+    width: 500px;
+    height: 20px;
+    background: rgb(57, 200, 57);
+}
+
+#rosso {
+    width: 120px;
+    height: 20px;
+    background: red;
+}
